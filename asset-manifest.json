@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/PraneethKumarT/MiniProject/static/css/main.06cae6c9.chunk.css",
+    "main.js": "/PraneethKumarT/MiniProject/static/js/main.acc9a06a.chunk.js",
+    "main.js.map": "/PraneethKumarT/MiniProject/static/js/main.acc9a06a.chunk.js.map",
+    "runtime-main.js": "/PraneethKumarT/MiniProject/static/js/runtime-main.3270e641.js",
+    "runtime-main.js.map": "/PraneethKumarT/MiniProject/static/js/runtime-main.3270e641.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/PraneethKumarT/MiniProject/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.245b47bd.chunk.js": "/PraneethKumarT/MiniProject/static/js/2.245b47bd.chunk.js",
+    "static/js/2.245b47bd.chunk.js.map": "/PraneethKumarT/MiniProject/static/js/2.245b47bd.chunk.js.map",
+    "static/js/3.df1ccc87.chunk.js": "/PraneethKumarT/MiniProject/static/js/3.df1ccc87.chunk.js",
+    "static/js/3.df1ccc87.chunk.js.map": "/PraneethKumarT/MiniProject/static/js/3.df1ccc87.chunk.js.map",
+    "index.html": "/PraneethKumarT/MiniProject/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/PraneethKumarT/MiniProject/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.06cae6c9.chunk.css.map": "/PraneethKumarT/MiniProject/static/css/main.06cae6c9.chunk.css.map",
+    "static/js/2.245b47bd.chunk.js.LICENSE.txt": "/PraneethKumarT/MiniProject/static/js/2.245b47bd.chunk.js.LICENSE.txt",
+    "static/media/Webapp.a4612ff2.jpg": "/PraneethKumarT/MiniProject/static/media/Webapp.a4612ff2.jpg",
+    "static/media/logo.6ce24c58.svg": "/PraneethKumarT/MiniProject/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3270e641.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.245b47bd.chunk.js",
+    "static/css/main.06cae6c9.chunk.css",
+    "static/js/main.acc9a06a.chunk.js"
+  ]
+}
